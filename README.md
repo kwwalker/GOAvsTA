@@ -28,16 +28,19 @@ The Python data collection script uses a combination of scholarly APIs, includin
 ChemRXiv API documentation and terms:
 
 https://chemrxiv.org/engage/chemrxiv/public-api/documentation
+
 https://chemrxiv.org/engage/assets/public/chemrxiv/term/faq.htm
 
 Scopus API documentation and terms:
 
 https://dev.elsevier.com/sc_apis.html
+
 https://dev.elsevier.com/policy.html
 
 Crossref API documentation and terms:
 
 https://api.crossref.org/swagger-ui/index.html
+
 https://www.crossref.org/documentation/retrieve-metadata/rest-api/rest-api-metadata-license-information/
 
 
