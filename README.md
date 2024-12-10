@@ -12,7 +12,7 @@ DOI: [https://doi.org/10.1016/j.acalib.2024.102984](https://doi.org/10.1016/j.ac
 
 This project examines the research impact and dissemination of green open access (GOA) and toll-access (TA) publications in the chemical sciences.
 
-- **Python scripts**: Used for mining bibliometric and altmetric data from APIs, including ChemRxiv, Scopus (via [Pybliometrics](https://github.com/pybliometrics-dev/pybliometrics)), and Crossref. The Python script is MIT licensed.
+- **Python scripts**: Used for data collection from APIs, including ChemRxiv, Scopus (via [Pybliometrics](https://github.com/pybliometrics-dev/pybliometrics)), and Crossref. The Python script is MIT licensed.
 - **R scripts**: Used for statistical analyses, data visualization, and distribution modeling. The R Script is GPL3 licensed.
 
 ---
