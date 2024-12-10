@@ -1,1 +1,1 @@
-# Comparing Impact of Green Open Access and Toll-Access Publication in the Chemical Sciences
+# Comparing impact of green open access and toll-access publication in the chemical sciences
